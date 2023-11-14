@@ -24,5 +24,6 @@ public class AnimalsCage {
         System.out.println("At:");
         System.out.println(timer.getTime());
         System.out.println("________________________");
+
     }
 }
